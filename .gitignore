@@ -1,0 +1,31 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+
+models/*.pkl
+models/*.joblib
+
+outputs/figures/*.png
+outputs/figures/*.jpg
+
+venv/
+Save the file
+
+Press:
+
+CTRL + S
+
+Then close Notepad.
+
+Next step
+
+Back in terminal:
+
+git init
+
+Press Enter.
+
+Reply with the output you get.
+
